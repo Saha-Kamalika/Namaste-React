@@ -1,6 +1,5 @@
-<<<<<<< HEAD
-# Namaste-React-
-=======
+# Namaste-React🚀
+
 ## NAMASTE REACT COURSE
 
 # Parcel
@@ -19,4 +18,4 @@
 - Error Handling
 - HTTPs
 - Tree Shaking- remove unused code
->>>>>>> 6ddeb21 (update)
+
